@@ -6,8 +6,8 @@
 
 Meu nome é José Lucas e gosto muito de desenvolver softwares em C++. <br/>
 Bom, Atualmente estou desenvolvendo varios projetos aqui nesta conta <br/>
-para tentar contribuir ao máximo com a comunidade 😀.
-
+para tentar contribuir ao máximo com a comunidade 😀.<br/>
+--------------------------------------------------------------------
 * 🌱 Atualmente estou estudando C# e Rust.
 * 📗 Estou cursando o ensino superior de Análise e Desenvolvimento de Sistemas.
 * 💬 Pergunte me sobre qualquer coisa, ficarei feliz em ajudá-lo.
