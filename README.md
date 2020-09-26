@@ -7,3 +7,4 @@ apenas para fins educacionais.
 💬 Pergunte me sobre qualquer coisa, ficarei feliz em ajudá-lo..
 📫 Contato: jslucasfernandes@gmail.com.
 🎮 Steam: /id/jslucas.
+📞 Discord: zLucas#0001
