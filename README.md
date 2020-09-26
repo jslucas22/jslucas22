@@ -27,5 +27,5 @@ apenas para fins educacionais.
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jslucas22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![My github stats](https://github-readme-stats.vercel.app/api?username=jslucas22&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jslucas22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
