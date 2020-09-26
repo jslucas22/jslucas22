@@ -1,8 +1,14 @@
 ### 🙋🏻‍♂️ Seja bem vindo ao meu perfil 🎉
 
 ![](Imagens/bnr.png)
+
 Oi, eu sou o José Lucas e atualmente estou desenvolvendo varios softwares nesta conta
 apenas para fins educacionais.
+
+
+### Ouvindo no Spotify 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/i9km51it7pka3vlce7be7rylq)
+
 
 * 🌱 Atualmente estou estudando C# e Rust.
 * 📗 Estou cursando o ensino superior de Análise e Desenvolvimento de Sistemas.
