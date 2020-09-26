@@ -12,10 +12,6 @@ apenas para fins educacionais.
 * 🎮 Steam: /id/jslucas.
 * 📞 Discord: zLucas#0001.
 
-### Neste momento estou ouvindo 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="jslucas95 Spotify Playing" width="350" />](https://open.spotify.com/user/i9km51it7pka3vlce7be7rylq)
-
-
 ### Habilidades e ferramentas:
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
