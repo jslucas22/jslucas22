@@ -4,8 +4,9 @@
 
 ### Sobre mim
 
-Meu nome é José Lucas e atualmente estou desenvolvendo varios projetos
-nessa conta para tentar ao máximo contribuir com a comunidade.
+Meu nome é José Lucas e gosto muito de desenvolver softwares em C++.
+Bom, Atualmente estou desenvolvendo varios projetos aqui nesta conta
+para tentar contribuir ao máximo com a comunidade 😀.
 
 * 🌱 Atualmente estou estudando C# e Rust.
 * 📗 Estou cursando o ensino superior de Análise e Desenvolvimento de Sistemas.
