@@ -2,8 +2,10 @@
 
 ![](Imagens/bnr.png)
 
-Oi, eu sou o José Lucas e atualmente estou desenvolvendo varios softwares nesta conta
-apenas para fins educacionais.
+###Sobre mim
+
+Meu nome é José Lucas e atualmente estou desenvolvendo varios projetos
+nessa conta para tentar ao máximo contribuir com a comunidade.
 
 * 🌱 Atualmente estou estudando C# e Rust.
 * 📗 Estou cursando o ensino superior de Análise e Desenvolvimento de Sistemas.
