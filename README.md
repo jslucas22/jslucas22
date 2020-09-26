@@ -38,5 +38,7 @@ ______________________________________________________________________________
 <code><img height="35" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg"></code>
 <code><img height="35" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png"></code>
 
+______________________________________________________________________________
+
 ![My github stats](https://github-readme-stats.vercel.app/api?username=jslucas22&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jslucas22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
