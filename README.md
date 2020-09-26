@@ -28,6 +28,7 @@ apenas para fins educacionais.
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="35" src="https://avatars1.githubusercontent.com/u/12006555?s=460&u=f4f86f5f722d097a5bb81979a7cbe9fea7a4d54e&v=4"></code>
+<code><img height="35" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg"></code>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=jslucas22&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jslucas22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
