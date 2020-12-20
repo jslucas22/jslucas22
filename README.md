@@ -10,7 +10,7 @@ Bom, Atualmente estou desenvolvendo varios projetos aqui nesta conta <br/>
 para tentar contribuir ao máximo com a comunidade 😀.<br/>
 
 ______________________________________________________________________________
-* 🌱 Atualmente estou estudando C# e Rust.
+* 🌱 Atualmente estou estudando C#.
 * 📗 Estou cursando o ensino superior de Análise e Desenvolvimento de Sistemas.
 * 💬 Pergunte me sobre qualquer coisa, ficarei feliz em ajudá-lo.
 * 📫 E-Mail: jslucasfernandes@gmail.com.
