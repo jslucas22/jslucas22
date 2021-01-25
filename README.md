@@ -1,6 +1,6 @@
 ### 🙋🏻‍♂️ Seja bem vindo ao meu perfil 🎉
 
-![](Imagens/bnr.png)
+//![](Imagens/bnr.png)
 
 ### Sobre mim
 
