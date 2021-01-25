@@ -1,7 +1,5 @@
 ### 🙋🏻‍♂️ Seja bem vindo ao meu perfil 🎉
 
-/*![](Imagens/bnr.png)*/
-
 ### Sobre mim
 
 Meu nome é José Lucas, e tenho experiência em desenvolvimento de softwares com C++ e C#.<br/> 
