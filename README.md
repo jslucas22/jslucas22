@@ -11,7 +11,7 @@ ______________________________________________________________________________
 * 📗 Estou cursando o ensino superior de Análise e Desenvolvimento de Sistemas.
 * 💬 Pergunte me sobre qualquer coisa, ficarei feliz em ajudá-lo.
 * 📫 E-Mail: jslucasfernandes@gmail.com.
-* 🎮 Steam: /id/jslucas.
+* 🎮 Steam: /id/*******.
 * 📞 Discord: zLucas#0001.
 ______________________________________________________________________________
 
