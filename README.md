@@ -3,8 +3,7 @@
 ### Sobre mim
 
 Meu nome é José Lucas, e tenho experiência em desenvolvimento de softwares com C++ e C#.<br/> 
-Bom, Atualmente estou desenvolvendo varios projetos aqui nesta conta <br/>
-para tentar contribuir ao máximo com a comunidade 😀.<br/>
+Atualmente desenvolvo alguns projetos simples em open source nesta conta <br/>
 
 ______________________________________________________________________________
 * 🌱 Atualmente estou estudando C#.
@@ -12,7 +11,7 @@ ______________________________________________________________________________
 * 💬 Pergunte me sobre qualquer coisa, ficarei feliz em ajudá-lo.
 * 📫 E-Mail: jslucasfernandes@gmail.com.
 * 🎮 Steam: /id/*******.
-* 📞 Discord: zLucas#0001.
+* 📞 Discord: zLucas#****.
 ______________________________________________________________________________
 
 ### Habilidades e ferramentas:
