@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-Meu nome é José Lucas, e tenho experiência em desenvolvimento de softwares com C++ e C#.<br/> 
+Meu nome é José Lucas, tenho experiência em desenvolvimento de softwares com C++ e C#.<br/> 
 Atualmente desenvolvo alguns projetos simples em open source nesta conta <br/>
 
 ______________________________________________________________________________
