@@ -1,5 +1,7 @@
 ### 🙋🏻‍♂️ Seja bem vindo ao meu perfil 🎉
 
+---FtnkutFscRG4O9vjgNt34F57g4T---
+
 ### Sobre mim
 
 Meu nome é José Lucas, tenho experiência em desenvolvimento de softwares com C++ e C#.<br/> 
