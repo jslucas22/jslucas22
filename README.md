@@ -11,10 +11,6 @@
 
 - ⚡ Fun fact **I started programming to optimize my time with repetitive activities, as I had a time limit to use the computer when I was a child.**
 
-<p align="left">
-<a href="https://twitter.com/joseesbellute" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joseesbellute" height="30" width="40" /></a>
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jslucas22&show_icons=true&locale=en&layout=compact" alt="jslucas22" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jslucas22&show_icons=true&locale=en" alt="jslucas22" /></p>
