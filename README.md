@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm José Lucas</h1>
 <h3 align="center">A humble software developer from Brazil.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jslucas22&label=Profile%20views&color=0e75b6&style=flat" alt="jslucas22" /> </p>
+
 - 🔭 I’m currently working on [Dant4lion](https://github.com/jslucas22/dant4lion)
 
 - 🌱 I’m currently learning **Docker**
