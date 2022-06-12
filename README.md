@@ -13,8 +13,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jslucas22&show_icons=true&locale=en&layout=compact" alt="jslucas22" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jslucas22&show_icons=true&locale=en" alt="jslucas22" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jslucas22&" alt="jslucas22" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
