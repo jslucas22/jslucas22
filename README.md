@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jslucas22&label=Profile%20views&color=0e75b6&style=flat" alt="jslucas22" /> </p>
 
-- 🔭 I’m currently working on [Dant4lion](https://github.com/jslucas22/dant4lion)
+- 🔭 I’m currently working on private projects
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning haskell
 
 - 👨‍💻 All of my projects are available at [http://github.com/jslucas22](http://github.com/jslucas22)
 
