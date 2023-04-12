@@ -3,9 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jslucas22&label=Profile%20views&color=0e75b6&style=flat" alt="jslucas22" /> </p>
 
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://camo.githubusercontent.com/e7c29a95a1a41235de85523c5bce85eff442b9eaeb1e126eefd41ddb5a0a3785/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f3f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d74727565267469746c655f636f6c6f723d6666662669636f6e5f636f6c6f723d37396666393726746578745f636f6c6f723d3966396639662662675f636f6c6f723d313531353135" />
-</a>
+ <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Github Readme Streak Stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jslucas22&background=24292f&border=373e47&stroke=373e47&currStreakNum=adbac7&sideNums=adbac7&sideLabels=adbac7&dates=adbac7&ring=539bf5&currStreakLabel=539bf5&fire=539bf5" alt="jslucas22" width=49.5% />
 <p>
 </div>
 
