@@ -7,8 +7,6 @@
 <p>
 </div>
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCSPjBGm3pugBDwGfWpemDDg)
-
 ## Linguagens de programação que trabalho
 
 <div style="display: inline_block"><br/>
